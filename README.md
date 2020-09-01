@@ -1,6 +1,7 @@
 # Binary Tree Project
+Discord invite: https://discord.gg/HwjRE7
 
-1. This project contains a skeleton for you to implement a binary tree. This is a
+This project contains a skeleton for you to implement a binary tree. This is a
 test-driven project. Run the tests and read the top-most error. If it's not
 clear what is failing, open the **test/test.js** file to figure out what the
 test is expecting. Make the top-most test pass.
